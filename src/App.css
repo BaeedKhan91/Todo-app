@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(44, 43, 43);
+}
+.main-container{
+  display: flex;
+  flex-direction: column;
+}
+.list{
+  list-style: none;
+  padding: 0;
+ margin: 0;
+ align-items: center;
+}
