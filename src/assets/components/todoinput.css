@@ -4,3 +4,10 @@
 .button{
     margin-left: 5px;
 }
+.list-items{
+    margin-bottom: 10px;
+    /*border with 1 px solid white */
+    border: 1px solid #fff;
+    width: 50%;
+    height: 20px;
+}
