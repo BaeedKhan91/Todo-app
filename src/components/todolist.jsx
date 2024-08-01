@@ -6,7 +6,7 @@ function Todolist(props) {
     <>
     <li className="list-items">
         {props.item}
-        {/* <span><i className="fa-solid fa-trash"></i></span> */}
+       
     </li>
    
   </>
